@@ -5,7 +5,7 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>y</p>
+
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
